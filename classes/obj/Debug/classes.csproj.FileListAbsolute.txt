@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\classes\classes\bin\Debug\classes.exe.config
+C:\Users\Админ\source\repos\classes\classes\bin\Debug\classes.exe
+C:\Users\Админ\source\repos\classes\classes\bin\Debug\classes.pdb
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes_MarkupCompile.cache
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes_MarkupCompile.lref
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.g.resources
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.Properties.Resources.resources
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.exe
+C:\Users\Админ\source\repos\classes\classes\obj\Debug\classes.pdb
